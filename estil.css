@@ -57,6 +57,7 @@ td {
     display: flex;
     font-size:large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    z-index: 0;
 
   
 /* This is used to make the navbar sticky, So that the 
